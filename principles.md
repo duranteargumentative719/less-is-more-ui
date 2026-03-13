@@ -29,7 +29,7 @@ If not, remove it.
 
 ## Less But Better
 
-Inspired by Dieter Rams.
+Inspired by Dieter Rams and Jony Ive.
 
 Good design is:
 
@@ -37,6 +37,7 @@ Good design is:
 - understandable
 - unobtrusive
 - long-lasting
+- instinctively simple
 
 Avoid visual excess.
 
@@ -65,3 +66,38 @@ Recommended approach:
 - muted tones
 
 Avoid highly saturated or neon colors.
+
+---
+
+## Elementos clave (qué usar)
+
+Use only the UI elements needed to support the task. Prefer simple, consistent patterns.
+
+### Layout
+
+- grid-based layouts (rows + columns) for clear structure
+- generous whitespace / padding to separate sections
+- consistent alignment (left, center, right) across elements
+
+### Navigation
+
+- simple, predictable navigation bars or tabs
+- clear labels and focus states
+- avoid deep nested menus when possible
+
+### Controls
+
+- primary actions as a single, prominent button
+- secondary actions as subtle text links or small buttons
+- inputs with clear labels, placeholder text, and visible borders
+
+### Content containers
+
+- cards or panels with subtle borders / elevation
+- headings that establish hierarchy (H1, H2, H3)
+- concise paragraphs and bulleted lists for scannability
+
+### Feedback
+
+- immediate response to user actions (button states, loading indicators)
+- minimal but clear error messages and confirmations

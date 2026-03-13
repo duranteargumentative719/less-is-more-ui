@@ -1,9 +1,10 @@
 ---
 name: less-is-more-ui
 description: >
-  Minimalist web UI design principles inspired by Ludwig Mies van der Rohe and Dieter Rams.
+  Minimalist web UI design principles inspired by Ludwig Mies van der Rohe, Dieter Rams, and Jony Ive.
   Helps AI agents design calm, functional and minimal web interfaces with strong typography,
   structured layouts, subtle color palettes and minimal visual noise.
+  Emphasizes "menos, pero mejor", honestidad, simplicidad y funcionalidad.
 tags: [ui, ux, web-design, minimalism, modernist, layout, typography, frontend]
 ---
 
@@ -11,7 +12,7 @@ tags: [ui, ux, web-design, minimalism, modernist, layout, typography, frontend]
 
 This skill helps AI agents design clean, functional and calm web interfaces.
 
-It applies modernist design principles inspired by Ludwig Mies van der Rohe and Dieter Rams.
+It applies modernist design principles inspired by Ludwig Mies van der Rohe, Dieter Rams and Jony Ive.
 
 The goal is to create interfaces that are:
 
@@ -30,3 +31,16 @@ For detailed guidance consult:
 - `anti-patterns.md`
 - `design-checklist.md`
 - `examples/`
+
+
+## When to Use This Skill
+
+Use this skill when the task involves:
+
+- designing a web interface
+- creating a landing page
+- building a website layout
+- improving UI clarity
+- simplifying an interface
+- generating a minimal frontend
+- designing a dashboard or content layout
