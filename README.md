@@ -13,10 +13,14 @@ The skill helps agents generate web interfaces that are:
 - structured with clear layout
 - using subtle color palettes
 
+## Repository
+
+https://github.com/Mendiak/less-is-more-ui
+
 ## Installation
 
 Install using the skills CLI:
-npx skills add <your-username>/less-is-more-ui
+npx skills add Mendiak/less-is-more-ui
 
 ## Files
 

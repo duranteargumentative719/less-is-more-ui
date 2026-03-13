@@ -25,13 +25,20 @@ The goal is to create interfaces that are:
 
 Avoid unnecessary decorative elements. Focus on clarity, typography, structure and usability.
 
+## Bundled Resources
+
+Use these resources to ensure a consistent, minimalist aesthetic:
+
+- `scripts/reset.css`: A tiny CSS reset for a clean, modernist starting point. **Always include this base in your CSS generation.**
+- `references/components.md`: A guide for creating modernist buttons, inputs, and cards. Use these patterns instead of generic web components.
+
 For detailed guidance consult:
 
-- `principles.md`
-- `design-process.md`
-- `anti-patterns.md`
-- `design-checklist.md`
-- `examples/`
+- `principles.md`: Core Mies van der Rohe and Dieter Rams concepts.
+- `design-process.md`: How to iterate on a minimal design.
+- `anti-patterns.md`: What to avoid (clutter, shadows, gradients).
+- `design-checklist.md`: Final review before finishing.
+- `examples/`: Visual reference for the desired outcome.
 
 
 ## When to Use This Skill
