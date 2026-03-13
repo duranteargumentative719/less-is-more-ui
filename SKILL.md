@@ -4,8 +4,9 @@ description: >
   Minimalist web UI design principles inspired by Ludwig Mies van der Rohe, Dieter Rams, and Jony Ive.
   Helps AI agents design calm, functional and minimal web interfaces with strong typography,
   structured layouts, subtle color palettes and minimal visual noise.
-  Emphasizes "menos, pero mejor", honestidad, simplicidad y funcionalidad.
-tags: [ui, ux, web-design, minimalism, modernist, layout, typography, frontend]
+  Emphasizes "less, but better", honesty, simplicity, and functionality.
+metadata:
+  tags: [ui, ux, web-design, minimalism, modernist, layout, typography, frontend]
 ---
 
 # Less Is More UI

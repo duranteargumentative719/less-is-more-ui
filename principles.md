@@ -69,7 +69,7 @@ Avoid highly saturated or neon colors.
 
 ---
 
-## Elementos clave (qué usar)
+## Key elements (what to use)
 
 Use only the UI elements needed to support the task. Prefer simple, consistent patterns.
 
