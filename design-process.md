@@ -61,3 +61,15 @@ After generating the interface:
 - reduce visual noise
 - increase whitespace
 - keep only essential components
+
+---
+
+## Step 6 — Polish the details
+
+"God is in the details." — Mies van der Rohe.
+
+A minimalist interface requires precise execution. Ensure all interactive elements feel high-quality through subtle micro-interactions.
+
+- Add `transition: 0.2s ease-in-out` for all `:hover` and `:focus` states.
+- Ensure consistent focus states for keyboard navigation.
+- Refine padding and margins to follow a consistent 8px or 12px grid.

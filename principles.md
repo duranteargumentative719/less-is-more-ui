@@ -69,6 +69,21 @@ Avoid highly saturated or neon colors.
 
 ---
 
+## Honest Materials (Semantic HTML)
+
+Inspired by the modernist respect for materials.
+
+In web design, "materials" are HTML elements. Do not hide structure behind excessive `<div>` nesting. Use elements for their intended purpose.
+
+Prefer:
+- `<main>` for primary content.
+- `<nav>` for navigation.
+- `<header>` and `<footer>` for structure.
+- `<article>` and `<section>` for content organization.
+- `<button>` for actions, `<a>` for navigation.
+
+---
+
 ## Key elements (what to use)
 
 Use only the UI elements needed to support the task. Prefer simple, consistent patterns.
