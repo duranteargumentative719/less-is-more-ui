@@ -20,7 +20,10 @@ https://github.com/Mendiak/less-is-more-ui
 ## Installation
 
 Install using the skills CLI:
+
+```bash
 npx skills add Mendiak/less-is-more-ui
+```
 
 ## Files
 
